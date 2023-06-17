@@ -4,7 +4,7 @@
 
 
 # 💻 Technical Stack
-![Go](https://img.shields.io/badge/golang-%23DD0031.svg?style=plastic&logo=&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23DD0031.svg?style=plastic&logo=-aws&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23DD0031.svg?style=plastic&logo=&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-%23DD0031?style=plastic&logo=&logoColor=white) 
+![Go](https://img.shields.io/badge/golang-%23DD0031.svg?style=plastic&logo=&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23DD0031.svg?style=plastic&logo=&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-%23DD0031?style=plastic&logo=&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23DD0031.svg?style=plastic&logo=&logoColor=white) 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%23DD0031.svg?style=plastic&logo=&logoColor=white) 
