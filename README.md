@@ -1,17 +1,23 @@
 # 💫 About Me:
-**🌱 Back-End Developer (Golang): </br> I started programming in 1390 and I worked with PHP and Formwork Laravel for almost 7 years as a project and now I have been working in Golang for 3 years of professional experience.<br>**
+**🌱 Back-End Developer (Golang): </br> I started programming in 1390 and I worked with PHP and Formwork Laravel for almost 7 years as a project and now I have been working in Golang for 3+ years of professional experience.<br>**
 
 
 
 # 💻 Technical Stack
-![Go](https://img.shields.io/badge/golang-%23DD0031.svg?style=plastic&logo=&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23DD0031.svg?style=plastic&logo=&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-%23DD0031?style=plastic&logo=&logoColor=white) 
+![Go](https://img.shields.io/badge/golang-%23DD0031.svg?style=plastic&logo=&logoColor=white)
+
 ![Postgres](https://img.shields.io/badge/postgres-%23DD0031.svg?style=plastic&logo=&logoColor=white) 
+
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=&logoColor=white) 
+
 ![Docker](https://img.shields.io/badge/docker-%23DD0031.svg?style=plastic&logo=&logoColor=white) 
+
 ![LINUX](https://img.shields.io/badge/Linux-%23DD0031?style=plastic&logo=&logoColor=black) 
-![Postman](https://img.shields.io/badge/Postman-%23DD0031?style=plastic&logo=&logoColor=white) 
+ 
 ![Blockchain](https://img.shields.io/badge/blockchain-%23DD0031.svg?style=plastic&logo=blockchain&logoColor=white) 
+
 ![hyperledger-fabric](https://img.shields.io/badge/hyperledgerfabric.-%23DD0031.svg?style=plastic&logo=blockchain&logoColor=white) 
+
 ![vault](https://img.shields.io/badge/vault.-%23DD0031.svg?style=plastic&logo=blockchain&logoColor=white)
 
 # 💻 Technical Skills
