@@ -4,21 +4,7 @@
 
 
 # 💻 Technical Stack
-![Go](https://img.shields.io/badge/golang-%23DD0031.svg?style=plastic&logo=&logoColor=white)
-
-![Postgres](https://img.shields.io/badge/postgres-%23DD0031.svg?style=plastic&logo=&logoColor=white) 
-
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=&logoColor=white) 
-
-![Docker](https://img.shields.io/badge/docker-%23DD0031.svg?style=plastic&logo=&logoColor=white) 
-
-![LINUX](https://img.shields.io/badge/Linux-%23DD0031?style=plastic&logo=&logoColor=black) 
- 
-![Blockchain](https://img.shields.io/badge/blockchain-%23DD0031.svg?style=plastic&logo=blockchain&logoColor=white) 
-
-![hyperledger-fabric](https://img.shields.io/badge/hyperledgerfabric.-%23DD0031.svg?style=plastic&logo=blockchain&logoColor=white) 
-
-![vault](https://img.shields.io/badge/vault.-%23DD0031.svg?style=plastic&logo=blockchain&logoColor=white)
+![Go](https://img.shields.io/badge/golang-%23DD0031.svg?style=plastic&logo=&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23DD0031.svg?style=plastic&logo=&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%23DD0031.svg?style=plastic&logo=&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-%23DD0031?style=plastic&logo=&logoColor=black) ![Blockchain](https://img.shields.io/badge/blockchain-%23DD0031.svg?style=plastic&logo=blockchain&logoColor=white) ![hyperledger-fabric](https://img.shields.io/badge/hyperledgerfabric.-%23DD0031.svg?style=plastic&logo=blockchain&logoColor=white) ![vault](https://img.shields.io/badge/vault.-%23DD0031.svg?style=plastic&logo=blockchain&logoColor=white)
 
 # 💻 Technical Skills
 ![](https://img.shields.io/badge/Communication-%2300ADD8.svg?style=plastic&logo=&logoColor=white)
