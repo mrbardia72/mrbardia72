@@ -1,5 +1,6 @@
 # 💫 About Me:
-**🌱 Back-End Developer (Golang): </br> I started programming in 1390 and I worked with PHP and Formwork Laravel for almost 7 years as a project and now I have been working in Golang for 3+ years of professional experience.<br>**
+**🌱 Back-End Developer (Golang): </br> I am a GoLang developer with more than four years of experience in software development. Over the years, I have acquired strong skills in designing, implementing and optimizing support systems for open source and commercial projects. The ability to work in a team environment, to master modern tools and frameworks, and to be interested in learning new concepts are my characteristics. Also, I have the ability to solve complex problems and provide optimal solutions to improve the performance and efficiency of systems. I am looking for new opportunities to develop and share my knowledge and experiences
+.<br>**
 
 
 
